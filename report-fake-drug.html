@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Report Fake Drug - RxScan</title>
+    <meta name="description" content="Report suspected fake or counterfeit drugs to help protect others" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="min-h-screen bg-gradient">
+      <!-- Navigation -->
+      <nav class="navbar">
+        <div class="container">
+          <div class="nav-content">
+            <!-- Logo -->
+            <div class="nav-brand">
+              <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>
+              </svg>
+              <span class="nav-brand-name">RxScan</span>
+            </div>
+
+            <!-- Desktop Navigation -->
+            <div class="nav-links desktop">
+              <a href="index.html" class="nav-link">Home</a>
+              <a href="how-it-works.html" class="nav-link">How It Works</a>
+              <a href="faq.html" class="nav-link">FAQ</a>
+              <a href="report-fake-drug.html" class="nav-link">Report Drug</a>
+              <a href="contact-support.html" class="nav-link">Support</a>
+            </div>
+
+            <!-- Mobile Toggle -->
+            <button class="mobile-toggle" id="mobileToggle">
+              <svg class="hamburger" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="4" x2="20" y1="6" y2="6"/>
+                <line x1="4" x2="20" y1="12" y2="12"/>
+                <line x1="4" x2="20" y1="18" y2="18"/>
+              </svg>
+              <svg class="close hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="m18 6-12 12"/>
+                <path d="m6 6 12 12"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Mobile Navigation -->
+          <div class="nav-links mobile hidden" id="mobileNav">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="how-it-works.html" class="nav-link">How It Works</a>
+            <a href="faq.html" class="nav-link">FAQ</a>
+            <a href="report-fake-drug.html" class="nav-link">Report Drug</a>
+            <a href="contact-support.html" class="nav-link">Support</a>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Content -->
+      <section class="container" style="padding: 2rem 0 4rem;">
+        <div class="section-header">
+          <h1 class="section-title">Report Fake Drug</h1>
+          <p class="section-description">
+            Help protect others by reporting suspected fake or counterfeit medicines
+          </p>
+        </div>
+
+        <div style="max-width: 40rem; margin: 0 auto;">
+          <!-- Alert Box -->
+          <div style="background: #fef2f2; border: 2px solid #fecaca; border-radius: 0.5rem; padding: 1.5rem; margin-bottom: 2rem;">
+            <div style="display: flex; gap: 0.75rem;">
+              <svg style="width: 1.5rem; height: 1.5rem; color: #dc2626; flex-shrink: 0; margin-top: 0.125rem;" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"/>
+                <path d="M12 9v4"/>
+                <path d="M12 17h.01"/>
+              </svg>
+              <div>
+                <h3 style="color: #991b1b; font-weight: 600; margin-bottom: 0.5rem;">Important Safety Notice</h3>
+                <p style="color: #b91c1c; font-size: 0.875rem;">
+                  If you suspect you have a fake drug, DO NOT use it. Stop taking the medicine immediately and consult with a healthcare professional for a safe alternative.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Report Form -->
+          <form id="reportForm" style="background: white; padding: 2rem; border-radius: 0.5rem; border: 2px solid #e5e7eb;">
+            <div style="margin-bottom: 1.5rem;">
+              <label style="display: block; font-weight: 600; color: #374151; margin-bottom: 0.5rem;">
+                Drug Name *
+              </label>
+              <input 
+                type="text" 
+                id="drugName" 
+                required
+                style="width: 100%; padding: 0.75rem; border: 2px solid #d1d5db; border-radius: 0.375rem; font-size: 1rem;"
+                placeholder="Enter the name of the suspected fake drug"
+              />
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+              <label style="display: block; font-weight: 600; color: #374151; margin-bottom: 0.5rem;">
+                NAFDAC Number (if available)
+              </label>
+              <input 
+                type="text" 
+                id="nafdacNumber"
+                style="width: 100%; padding: 0.75rem; border: 2px solid #d1d5db; border-radius: 0.375rem; font-size: 1rem;"
+                placeholder="Enter NAFDAC registration number if visible"
+              />
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+              <label style="display: block; font-weight: 600; color: #374151; margin-bottom: 0.5rem;">
+                Where did you buy this drug? *
+              </label>
+              <input 
+                type="text" 
+                id="purchaseLocation" 
+                required
+                style="width: 100%; padding: 0.75rem; border: 2px solid #d1d5db; border-radius: 0.375rem; font-size: 1rem;"
+                placeholder="Pharmacy name, market, online store, etc."
+              />
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+              <label style="display: block; font-weight: 600; color: #374151; margin-bottom: 0.5rem;">
+                City/State *
+              </label>
+              <input 
+                type="text" 
+                id="location" 
+                required
+                style="width: 100%; padding: 0.75rem; border: 2px solid #d1d5db; border-radius: 0.375rem; font-size: 1rem;"
+                placeholder="e.g., Lagos, Abuja, Kano"
+              />
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+              <label style="display: block; font-weight: 600; color: #374151; margin-bottom: 0.5rem;">
+                Why do you suspect this drug is fake?
+              </label>
+              <textarea 
+                id="suspicionReason"
+                rows="4"
+                style="width: 100%; padding: 0.75rem; border: 2px solid #d1d5db; border-radius: 0.375rem; font-size: 1rem; resize: vertical;"
+                placeholder="Describe what made you suspicious (e.g., no NAFDAC number, unusual packaging, different taste/color, no effect, etc.)"
+              ></textarea>
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+              <label style="display: block; font-weight: 600; color: #374151; margin-bottom: 0.5rem;">
+                Upload Photos (Optional)
+              </label>
+              <input 
+                type="file" 
+                id="photos" 
+                multiple 
+                accept="image/*"
+                style="width: 100%; padding: 0.75rem; border: 2px solid #d1d5db; border-radius: 0.375rem; font-size: 1rem;"
+              />
+              <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+                Please include photos of the packaging, pills/tablets, and any suspicious features
+              </p>
+            </div>
+
+            <div style="margin-bottom: 1.5rem;">
+              <label style="display: block; font-weight: 600; color: #374151; margin-bottom: 0.5rem;">
+                Your Contact (Optional)
+              </label>
+              <input 
+                type="text" 
+                id="contact"
+                style="width: 100%; padding: 0.75rem; border: 2px solid #d1d5db; border-radius: 0.375rem; font-size: 1rem;"
+                placeholder="Phone number or email (for follow-up if needed)"
+              />
+              <p style="font-size: 0.875rem; color: #6b7280; margin-top: 0.5rem;">
+                We may contact you for additional information to help with the investigation
+              </p>
+            </div>
+
+            <button type="submit" class="btn btn-primary" style="width: 100%; font-size: 1.125rem;">
+              Submit Report
+            </button>
+          </form>
+
+          <!-- What Happens Next -->
+          <div style="margin-top: 2rem; background: #dbeafe; padding: 1.5rem; border-radius: 0.5rem;">
+            <h3 style="color: #1e40af; font-weight: 600; margin-bottom: 1rem;">What happens after you report?</h3>
+            <ul style="color: #1e40af; line-height: 1.6;">
+              <li>Your report is sent directly to NAFDAC and relevant authorities</li>
+              <li>We investigate the pharmacy/seller and the drug batch</li>
+              <li>Other users are warned about potential fake drugs in that area</li>
+              <li>You help prevent others from buying the same fake medicine</li>
+              <li>We may contact you for additional information if needed</li>
+            </ul>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+      document.getElementById('reportForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        // Get form data
+        const formData = {
+          drugName: document.getElementById('drugName').value,
+          nafdacNumber: document.getElementById('nafdacNumber').value,
+          purchaseLocation: document.getElementById('purchaseLocation').value,
+          location: document.getElementById('location').value,
+          suspicionReason: document.getElementById('suspicionReason').value,
+          contact: document.getElementById('contact').value,
+          photos: document.getElementById('photos').files
+        };
+        
+        // Simulate form submission
+        showNotification('Report submitted successfully! Thank you for helping keep our community safe.', 'success');
+        
+        // Reset form
+        this.reset();
+        
+        // In a real app, you would send this data to your backend
+        console.log('Fake drug report:', formData);
+      });
+    </script>
+  </body>
+</html>

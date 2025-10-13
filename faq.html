@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FAQ - RxScan</title>
+    <meta name="description" content="Frequently asked questions about RxScan drug verification app" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="min-h-screen bg-gradient">
+      <!-- Navigation -->
+      <nav class="navbar">
+        <div class="container">
+          <div class="nav-content">
+            <!-- Logo -->
+            <div class="nav-brand">
+              <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>
+              </svg>
+              <span class="nav-brand-name">RxScan</span>
+            </div>
+
+            <!-- Desktop Navigation -->
+            <div class="nav-links desktop">
+              <a href="index.html" class="nav-link">Home</a>
+              <a href="how-it-works.html" class="nav-link">How It Works</a>
+              <a href="faq.html" class="nav-link">FAQ</a>
+              <a href="report-fake-drug.html" class="nav-link">Report Drug</a>
+              <a href="contact-support.html" class="nav-link">Support</a>
+            </div>
+
+            <!-- Mobile Toggle -->
+            <button class="mobile-toggle" id="mobileToggle">
+              <svg class="hamburger" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="4" x2="20" y1="6" y2="6"/>
+                <line x1="4" x2="20" y1="12" y2="12"/>
+                <line x1="4" x2="20" y1="18" y2="18"/>
+              </svg>
+              <svg class="close hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="m18 6-12 12"/>
+                <path d="m6 6 12 12"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Mobile Navigation -->
+          <div class="nav-links mobile hidden" id="mobileNav">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="how-it-works.html" class="nav-link">How It Works</a>
+            <a href="faq.html" class="nav-link">FAQ</a>
+            <a href="report-fake-drug.html" class="nav-link">Report Drug</a>
+            <a href="contact-support.html" class="nav-link">Support</a>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Main Content -->
+      <section class="container" style="padding: 2rem 0 4rem;">
+        <div class="section-header">
+          <h1 class="section-title">Frequently Asked Questions</h1>
+          <p class="section-description">
+            Everything you need to know about verifying your medicine
+          </p>
+        </div>
+
+        <div style="max-width: 48rem; margin: 0 auto;">
+          <!-- FAQ Items -->
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>What is a NAFDAC number and where can I find it?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>A NAFDAC number is a unique registration number assigned to every approved drug in Nigeria. You can find it on the medicine pack, usually printed as "NAFDAC REG NO" followed by a combination of numbers and letters. It's typically located on the front or back of the packaging.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>Is RxScan free to use?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Yes, RxScan is completely free to download and use. We believe everyone should have access to medicine verification to protect their health and safety.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>How accurate is the verification system?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Our verification system is directly connected to NAFDAC's official database, ensuring 100% accuracy for registered drugs. The results you see are the same as what NAFDAC would provide.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>What should I do if my medicine shows as "Not Found"?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>First, double-check that you've entered the NAFDAC number correctly. If it still shows "Not Found," this could indicate a fake or unregistered drug. DO NOT use the medicine and report it immediately using our reporting feature. Consult with a healthcare professional for a safe alternative.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>Can I verify imported or foreign medicines?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>RxScan only works with medicines registered in Nigeria's NAFDAC database. Imported medicines that are legally sold in Nigeria should have NAFDAC registration numbers. If an imported medicine doesn't have a NAFDAC number, consult with a pharmacist before use.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>How do I report a fake drug?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>You can report suspected fake drugs directly through our app or website. Click on "Report Fake Drug" and fill out the simple form with details about the medicine and where you purchased it. You can also upload photos of the packaging.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>Does the app work offline?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>No, RxScan requires an internet connection to access the live NAFDAC database and provide real-time verification results. This ensures you always get the most up-to-date information.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>Is my personal information safe?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Yes, we take privacy seriously. We only collect the NAFDAC numbers you verify and basic usage analytics to improve our service. We never store personal information or share your data with third parties.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>What if I can't find the NAFDAC number on my medicine?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>If you can't find a NAFDAC number on your medicine packaging, this is a red flag. All legally registered medicines in Nigeria must display their NAFDAC registration number. Contact the pharmacy where you purchased it or report it as suspicious.</p>
+            </div>
+          </div>
+
+          <div class="faq-item">
+            <div class="faq-question">
+              <h3>Can pharmacists and healthcare workers use this app?</h3>
+              <span class="faq-toggle">+</span>
+            </div>
+            <div class="faq-answer">
+              <p>Absolutely! RxScan is designed for everyone - patients, pharmacists, healthcare workers, and drug sellers. It's a valuable tool for verifying medicine authenticity in any healthcare setting.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+      // FAQ Toggle Functionality
+      document.addEventListener('DOMContentLoaded', function() {
+        const faqItems = document.querySelectorAll('.faq-item');
+        
+        faqItems.forEach(item => {
+          const question = item.querySelector('.faq-question');
+          const answer = item.querySelector('.faq-answer');
+          const toggle = item.querySelector('.faq-toggle');
+          
+          question.addEventListener('click', function() {
+            const isOpen = answer.style.display === 'block';
+            
+            if (isOpen) {
+              answer.style.display = 'none';
+              toggle.textContent = '+';
+              item.classList.remove('active');
+            } else {
+              answer.style.display = 'block';
+              toggle.textContent = '-';
+              item.classList.add('active');
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>

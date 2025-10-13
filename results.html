@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Verification Results - RxScan</title>
+    <meta name="description" content="Drug verification results from RxScan" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="min-h-screen bg-gradient">
+      <!-- Navigation -->
+      <nav class="navbar">
+        <div class="container">
+          <div class="nav-content">
+            <!-- Logo -->
+            <div class="nav-brand">
+              <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>
+              </svg>
+              <span class="nav-brand-name">RxScan</span>
+            </div>
+
+            <!-- Desktop Navigation -->
+            <div class="nav-links desktop">
+              <a href="index.html" class="nav-link">Home</a>
+              <a href="how-it-works.html" class="nav-link">How It Works</a>
+              <a href="faq.html" class="nav-link">FAQ</a>
+              <a href="report-fake-drug.html" class="nav-link">Report Drug</a>
+              <a href="contact-support.html" class="nav-link">Support</a>
+            </div>
+
+            <!-- Mobile Toggle -->
+            <button class="mobile-toggle" id="mobileToggle">
+              <svg class="hamburger" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="4" x2="20" y1="6" y2="6"/>
+                <line x1="4" x2="20" y1="12" y2="12"/>
+                <line x1="4" x2="20" y1="18" y2="18"/>
+              </svg>
+              <svg class="close hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="m18 6-12 12"/>
+                <path d="m6 6 12 12"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Mobile Navigation -->
+          <div class="nav-links mobile hidden" id="mobileNav">
+            <a href="index.html" class="nav-link">Home</a>
+            <a href="how-it-works.html" class="nav-link">How It Works</a>
+            <a href="faq.html" class="nav-link">FAQ</a>
+            <a href="report-fake-drug.html" class="nav-link">Report Drug</a>
+            <a href="contact-support.html" class="nav-link">Support</a>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Results Section -->
+      <section class="results-page">
+        <div class="container">
+          <div class="results-header">
+            <h1 class="results-title">Verification Results</h1>
+            <p class="results-subtitle">Here are the results for your drug verification</p>
+          </div>
+
+          <!-- Results Container -->
+          <div class="results-container" id="resultsContainer">
+            <!-- Results will be populated by JavaScript -->
+          </div>
+
+          <!-- Action Buttons -->
+          <div class="results-actions">
+            <button class="btn btn-primary" onclick="window.location.href='index.html'">
+              <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <circle cx="11" cy="11" r="8"/>
+                <path d="m21 21-4.35-4.35"/>
+              </svg>
+              Verify Another Drug
+            </button>
+            <button class="btn btn-outline" onclick="window.location.href='report-fake-drug.html'">
+              <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M3 3l18 18"/>
+                <path d="M12 3v6l4 4-4 4v6"/>
+                <path d="M5 7h6"/>
+                <path d="M13 17h6"/>
+              </svg>
+              Report Suspicious Drug
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Footer -->
+      <footer class="footer">
+        <div class="container">
+          <div class="footer-content">
+            <div class="footer-section">
+              <div class="footer-brand">
+                <svg class="footer-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>
+                </svg>
+                <span class="footer-brand-name">RxScan</span>
+              </div>
+              <p class="footer-description">
+                Nigeria's trusted NAFDAC drug verification platform. 
+                Protecting health, one verification at a time.
+              </p>
+            </div>
+            
+            <div class="footer-section">
+              <h4 class="footer-heading">Quick Links</h4>
+              <ul class="footer-links">
+                <li><a href="how-it-works.html">How It Works</a></li>
+                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="report-fake-drug.html">Report Fake Drug</a></li>
+                <li><a href="contact-support.html">Contact Support</a></li>
+              </ul>
+            </div>
+            
+            <div class="footer-section">
+              <h4 class="footer-heading">Legal</h4>
+              <ul class="footer-links">
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">NAFDAC Partnership</a></li>
+              </ul>
+            </div>
+          </div>
+          
+          <div class="footer-bottom">
+            <p>&copy; 2024 RxScan. All rights reserved. Proudly made in Nigeria.</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

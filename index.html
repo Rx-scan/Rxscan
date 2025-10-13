@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>RxScan - Verify Your Medicine Instantly</title>
+    <meta name="description" content="Nigeria's trusted NAFDAC drug verification platform. Protect yourself from fake drugs with instant verification." />
+    <meta name="author" content="RxScan" />
+
+    <meta property="og:title" content="RxScan - Verify Your Medicine Instantly" />
+    <meta property="og:description" content="Nigeria's trusted NAFDAC drug verification platform. Protect yourself from fake drugs with instant verification." />
+    <meta property="og:type" content="website" />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <div class="min-h-screen bg-gradient">
+      <!-- Navigation -->
+      <nav class="navbar">
+        <div class="container">
+          <div class="nav-content">
+            <!-- Logo -->
+            <div class="nav-brand">
+              <svg class="nav-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>
+              </svg>
+              <span class="nav-brand-name">RxScan</span>
+            </div>
+
+            <!-- Desktop Navigation -->
+            <div class="nav-links desktop">
+              <a href="how-it-works.html" class="nav-link">How It Works</a>
+              <a href="faq.html" class="nav-link">FAQ</a>
+              <a href="report-fake-drug.html" class="nav-link">Report Drug</a>
+              <a href="contact-support.html" class="nav-link">Support</a>
+            </div>
+
+            <!-- Mobile Toggle -->
+            <button class="mobile-toggle" id="mobileToggle">
+              <svg class="hamburger" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="4" x2="20" y1="6" y2="6"/>
+                <line x1="4" x2="20" y1="12" y2="12"/>
+                <line x1="4" x2="20" y1="18" y2="18"/>
+              </svg>
+              <svg class="close hidden" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="m18 6-12 12"/>
+                <path d="m6 6 12 12"/>
+              </svg>
+            </button>
+          </div>
+
+          <!-- Mobile Navigation -->
+          <div class="nav-links mobile hidden" id="mobileNav">
+            <a href="how-it-works.html" class="nav-link">How It Works</a>
+            <a href="faq.html" class="nav-link">FAQ</a>
+            <a href="report-fake-drug.html" class="nav-link">Report Drug</a>
+            <a href="contact-support.html" class="nav-link">Support</a>
+          </div>
+        </div>
+      </nav>
+
+      <!-- Hero Section -->
+      <section class="hero-section">
+        <div class="container">
+          <div class="hero-content">
+            <div class="hero-icon">
+              <div class="icon-wrapper">
+                <svg class="icon-large" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>
+                </svg>
+              </div>
+            </div>
+            
+            <h1 class="hero-title">
+              Verify Your <span class="text-primary">Medicine</span> Instantly
+            </h1>
+            
+            <p class="hero-description">
+              Protect yourself from fake drugs with Nigeria's most trusted NAFDAC verification app. 
+              Simple, fast, and reliable.
+            </p>
+            
+            <!-- Verification Input -->
+            <div class="verification-input">
+              <div class="input-group">
+                <input 
+                  type="text" 
+                  class="verify-input" 
+                  placeholder="Enter NAFDAC number (e.g., A4-1234)" 
+                  id="nafdacInput"
+                />
+                <button class="btn btn-primary verify-btn" id="verifyBtn">
+                  <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"/>
+                    <path d="m21 21-4.35-4.35"/>
+                  </svg>
+                  Verify
+                </button>
+              </div>
+              <!-- <button class="btn btn-outline get-started-btn" id="getStartedBtn">
+                Get Started
+              </button> -->
+            </div>
+            
+            <!-- Trust Indicators -->
+            <div class="trust-indicators">
+              <div class="trust-item">
+                <svg class="trust-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"/>
+                  <circle cx="9" cy="7" r="4"/>
+                  <path d="m22 21-3-3"/>
+                </svg>
+                <span>50K+ Verifications</span>
+              </div>
+              <div class="trust-item">
+                <svg class="trust-icon star" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polygon points="12,2 15.09,8.26 22,9.27 17,14.14 18.18,21.02 12,17.77 5.82,21.02 7,14.14 2,9.27 8.91,8.26"/>
+                </svg>
+                <span>4.8/5 Rating</span>
+              </div>
+              <div class="trust-item">
+                <svg class="trust-icon shield" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>
+                </svg>
+                <span>NAFDAC Approved</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- How It Works Section -->
+      <section class="how-it-works" id="how-it-works">
+        <div class="container">
+          <div class="section-header">
+            <h2 class="section-title">How It Works</h2>
+            <p class="section-description">
+              Verify any medicine in seconds with these simple steps
+            </p>
+          </div>
+          
+          <div class="steps-grid">
+            <!-- Step 1 -->
+            <div class="step-card">
+              <div class="step-content">
+                <div class="step-icon blue">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect width="14" height="20" x="5" y="2" rx="2" ry="2"/>
+                    <path d="M12 18h.01"/>
+                  </svg>
+                </div>
+                <div class="step-number blue">1</div>
+                <h3 class="step-title">Open the App</h3>
+                <p class="step-description">
+                  Launch the app on your phone and tap "Verify Drug"
+                </p>
+              </div>
+            </div>
+
+            <!-- Step 2 -->
+            <div class="step-card">
+              <div class="step-content">
+                <div class="step-icon green">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="11" cy="11" r="8"/>
+                    <path d="m21 21-4.35-4.35"/>
+                  </svg>
+                </div>
+                <div class="step-number green">2</div>
+                <h3 class="step-title">Enter NAFDAC Number</h3>
+                <p class="step-description">
+                  Type the NAFDAC number found on your medicine pack
+                </p>
+              </div>
+            </div>
+
+            <!-- Step 3 -->
+            <div class="step-card">
+              <div class="step-content">
+                <div class="step-icon purple">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"/>
+                    <polyline points="12,6 12,12 16,14"/>
+                  </svg>
+                </div>
+                <div class="step-number purple">3</div>
+                <h3 class="step-title">Get Instant Results</h3>
+                <p class="step-description">
+                  Receive verification results within seconds
+                </p>
+              </div>
+            </div>
+
+            <!-- Step 4 -->
+            <div class="step-card">
+              <div class="step-content">
+                <div class="step-icon orange">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>
+                  </svg>
+                </div>
+                <div class="step-number orange">4</div>
+                <h3 class="step-title">Take Action</h3>
+                <p class="step-description">
+                  Use safe medicine or report suspicious drugs easily
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Results Section -->
+      <section class="results-section">
+        <div class="container">
+          <div class="section-header">
+            <h2 class="section-title">Clear Results You Can Trust</h2>
+            <p class="section-description">
+              Get one of three instant results for every verification
+            </p>
+          </div>
+          
+          <div class="results-grid">
+            <!-- Genuine -->
+            <div class="result-card genuine">
+              <div class="result-content">
+                <div class="result-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/>
+                    <path d="m9 11 3 3L22 4"/>
+                  </svg>
+                </div>
+                <h3 class="result-title">✅ Genuine</h3>
+                <p class="result-description">
+                  The drug is registered, safe, and approved by NAFDAC
+                </p>
+                <div class="result-details">
+                  <p><strong>You'll see:</strong></p>
+                  <ul>
+                    <li>Drug name & manufacturer</li>
+                    <li>Registration date</li>
+                    <li>Expiry status</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <!-- Not Found -->
+            <div class="result-card not-found">
+              <div class="result-content">
+                <div class="result-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"/>
+                    <path d="m15 9-6 6"/>
+                    <path d="m9 9 6 6"/>
+                  </svg>
+                </div>
+                <h3 class="result-title">❌ Not Found</h3>
+                <p class="result-description">
+                  The number doesn't match any NAFDAC record
+                </p>
+                <div class="result-details">
+                  <p><strong>This could mean:</strong></p>
+                  <ul>
+                    <li>Fake or counterfeit drug</li>
+                    <li>Unregistered product</li>
+                    <li>Incorrect number entry</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+
+            <!-- Expired -->
+            <div class="result-card expired">
+              <div class="result-content">
+                <div class="result-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3"/>
+                    <path d="M12 9v4"/>
+                    <path d="M12 17h.01"/>
+                  </svg>
+                </div>
+                <h3 class="result-title">⚠ Expired</h3>
+                <p class="result-description">
+                  Registration has expired - no longer approved for use
+                </p>
+                <div class="result-details">
+                  <p><strong>What this means:</strong></p>
+                  <ul>
+                    <li>Previously registered</li>
+                    <li>Approval has lapsed</li>
+                    <li>Not safe to use</li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- CTA Section -->
+      <section class="cta-section">
+        <div class="container">
+          <div class="cta-content">
+            <h2 class="cta-title">Don't Risk Your Health</h2>
+            <p class="cta-description">
+              Join thousands of Nigerians who verify their medicine before use. 
+              Download the app today and stay safe.
+            </p>
+            <div class="cta-buttons">
+              <button class="btn btn-white">
+                <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                  <polyline points="7,10 12,15 17,10"/>
+                  <line x1="12" x2="12" y1="15" y2="3"/>
+                </svg>
+                Download for Android
+              </button>
+              <button class="btn btn-outline-white">
+                <svg class="btn-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                  <polyline points="7,10 12,15 17,10"/>
+                  <line x1="12" x2="12" y1="15" y2="3"/>
+                </svg>
+                Download for iOS
+              </button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Footer -->
+      <footer class="footer">
+        <div class="container">
+          <div class="footer-content">
+            <div class="footer-section">
+              <div class="footer-brand">
+                <svg class="footer-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M20 13c0 5-3.5 7.5-7.66 8.95a1 1 0 0 1-.67-.01C7.5 20.5 4 18 4 13V6a1 1 0 0 1 1-1c2 0 4.5-1.2 6.24-2.72a1.17 1.17 0 0 1 1.52 0C14.51 3.81 17 5 19 5a1 1 0 0 1 1 1z"/>
+                </svg>
+                <span class="footer-brand-name">RxScan</span>
+              </div>
+              <p class="footer-description">
+                Nigeria's trusted NAFDAC drug verification platform. 
+                Protecting health, one verification at a time.
+              </p>
+            </div>
+            
+            <div class="footer-section">
+              <h4 class="footer-heading">Quick Links</h4>
+              <ul class="footer-links">
+                <li><a href="how-it-works.html">How It Works</a></li>
+                <li><a href="faq.html">FAQ</a></li>
+                <li><a href="report-fake-drug.html">Report Fake Drug</a></li>
+                <li><a href="contact-support.html">Contact Support</a></li>
+              </ul>
+            </div>
+            
+            <div class="footer-section">
+              <h4 class="footer-heading">Legal</h4>
+              <ul class="footer-links">
+                <li><a href="#">Privacy Policy</a></li>
+                <li><a href="#">Terms of Service</a></li>
+                <li><a href="#">NAFDAC Partnership</a></li>
+              </ul>
+            </div>
+          </div>
+          
+          <div class="footer-bottom">
+            <p>&copy; 2024 RxScan. All rights reserved. Proudly made in Nigeria.</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
+
