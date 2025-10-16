@@ -1,0 +1,6572 @@
+[
+  {
+    "nafdacNumber": "B4-1160",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9125",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9123",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9124",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1720",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1494",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8573",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8575",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8112",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9511",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9510",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2175",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2176",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100614",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100939",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100613",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-7440",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0265",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6399",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0567",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0554",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100076",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0555",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4712",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100922",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100078",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7348",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0566",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7551",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7445",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100055",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100017",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100018",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100004",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100079",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100077",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100684",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-0213",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100082",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100101",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100120",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8780",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0300",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0550",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0551",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1215",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5996",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3704",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8112",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0461",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6539",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6538",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0909",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0629",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4802",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1476",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-2055",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100484",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100771",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100160",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100147",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100138",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100759",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101020",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100962",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9505",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9505",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9506",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9506",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3125",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101189",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1525",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1571",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1524",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101240",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101298",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101429",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1740",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2466",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100999",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100748",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-9278",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9112",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0288",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1223",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-0489",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0026",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5526",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0126",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0047",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100567",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0033",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0009",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5290",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0121",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100568",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0040",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100569",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100570",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0048",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0978",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4437",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100336",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100325",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100337",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0086",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5078",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2875",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0082",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0083",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0966",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100606",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3734",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5443",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5289",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4604",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8909",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100521",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100492",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0662",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5531",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5530",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0160",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100611",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100812",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100811",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100869",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100616",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100617",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3721",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2113",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4057",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100993",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3534",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-1955",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5688",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100094",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1235",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1234",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1236",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2761",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100987",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6176",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0777",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8086",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-9923",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1472",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6010",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3655",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101401",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4022",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101090",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101091",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100911",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4976",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6058",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0767",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9746",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7832",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7833",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7834",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100503",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100502",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5291",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1927",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7301",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4368",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4369",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3182",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5313",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1306",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1305",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2854",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2853",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3074",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0953",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0952",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3489",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100764",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100547",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8300",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0693",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0694",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5763",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5762",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3040",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2906",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3488",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3371",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2327",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2110",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-0218",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2043",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1677",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1676",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8442",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-5473",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100719",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100718",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9071",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1648",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1233",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8257",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1835",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1836",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3798",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4409",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4408",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6505",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6324",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100078",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9682",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100702",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100703",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0150",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1991",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0275",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6506",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100061",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100740",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100739",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8993",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1862",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1770",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1769",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0332",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1577",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1576",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3368",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3752",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1825",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1824",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0275",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8294",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6325",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0797",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0796",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0445",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0441",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3243",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6950",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5069",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8425",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6709",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0344",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0345",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100611",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100612",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1199",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1434",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2518",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1552",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2517",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0882",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6223",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1156",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8405",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8244",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100082",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100096",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0250",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0249",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1164",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1165",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100097",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1186",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1210",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1639",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1284",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1435",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1285",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1638",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1211",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1632",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0257",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0258",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1865",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1459",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100549",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3738",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100535",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9364",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1787",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2508",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2402",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2481",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4149",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2723",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3769",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4801",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4218",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2611",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1157",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4164",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2401",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3376",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4439",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100735",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100737",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9071",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1648",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1233",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8257",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1835",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1836",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3798",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4409",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4408",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6505",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6324",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100078",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9682",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100702",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100703",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0150",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1991",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0275",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6506",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100061",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100740",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100739",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8993",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1862",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1770",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1769",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0332",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1577",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1576",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3368",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3752",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1825",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1824",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0275",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8294",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6325",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0797",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0796",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0445",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0441",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3243",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6950",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5069",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8425",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6709",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0344",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0345",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100611",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100612",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1199",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1434",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2518",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1552",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2517",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0882",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6223",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1156",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8405",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8244",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100082",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100096",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0250",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0249",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1164",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1165",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100097",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1186",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1210",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1639",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1284",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1435",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1285",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1638",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1211",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1632",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0257",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0258",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1865",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1459",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100549",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3738",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100535",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9364",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1787",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2508",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2402",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2481",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4149",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2723",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3769",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4801",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4218",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2611",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1157",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4164",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2401",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3376",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4439",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100735",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100737",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100736",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0426",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9532",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5073",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1788",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8494",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-9257",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9120",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7969",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1230",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7806",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7502",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7502",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100711",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1623",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100991",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9718",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9572",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5839",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4214",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4215",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8422",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0660",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0772",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0418",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9222",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0773",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0329",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6534",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6535",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9246",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9247",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0520",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-1471",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6808",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2529",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100196",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101258",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6769",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-5670",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1226",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1390",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1112",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9759",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1657",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1512",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8383",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1513",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6500",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6499",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3349",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6262",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100365",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100260",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4942",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3376",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1012",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1010",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1011",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7150",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7412",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100131",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100630",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1886",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4875",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100536",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100537",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0932",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3175",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2687",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2688",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2690",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2689",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7849",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7850",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1265",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6029",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8839",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9543",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8985",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5795",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6857",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6858",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0687",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3287",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3287",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1405",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9544",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8986",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100865",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6833",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3100",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5003",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1135",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-5172",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1142",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5760",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5761",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5988",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7726",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5989",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5987",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8641",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1812",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100347",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100348",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1501",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100769",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0897",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0785",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2180",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4250",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100909",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100796",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100910",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100719",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1240",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101151",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101150",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101150",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101046",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4723",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101171",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4868",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4581",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-7464",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3508",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101176",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1355",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1356",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-9994",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1483",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100035",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4353",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4353",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4213",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100821",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0475",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6895",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4238",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9559",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7914",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101126",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4853",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2575",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4774",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0850",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0930",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6184",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2734",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1419",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1343",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1342",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7772",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1200",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1331",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101408",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101417",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1448",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1234",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1330",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1233",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6280",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101407",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100814",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7786",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0780",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0348",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5719",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0306",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101318",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101199",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101207",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101208",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101317",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101213",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101209",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100605",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8799",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1218",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101012",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100979",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101026",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1274",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7390",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8056",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5947",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3164",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100815",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100816",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100786",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100919",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6460",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-9464",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101184",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0093",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8100",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9524",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0922",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3405",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100887",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100898",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100885",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100886",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100897",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101011",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100783",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101037",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101206",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100788",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0439",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9541",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1484",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9514",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100758",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-9503",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6238",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9416",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1153",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2533",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4856",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3491",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0160",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0400",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2187",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6251",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6252",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6250",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1655",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3738",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6729",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7532",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7531",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0345",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1021",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0918",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-0582",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-5918",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-7895",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1551",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0933",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5674",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-6246",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1900",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9928",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4447",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0982",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100500",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0029",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1308",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1262",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100642",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7898",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0483",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1470",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1607",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1640",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2680",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4610",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0196",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100815",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3367",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3739",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8161",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8238",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3788",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9299",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1712",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101204",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1772",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1771",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6966",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6965",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1174",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8467",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8112",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1300",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1301",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2383",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3886",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-7410",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2385",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2377",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0891",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9793",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1486",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1348",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8655",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2496",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-1928",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0052",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2466",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2516",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1136",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-9979",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7496",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4002",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4190",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5044",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1282",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1025",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1290",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1281",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1024",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1280",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1289",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4904",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6790",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3297",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1875",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-7076",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1681",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101064",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101063",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100565",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8489",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2522",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3811",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9860",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1241",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9122",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4501",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100548",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100881",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0964",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0250",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "03-3183",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100083",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0974",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8338",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5664",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0975",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0975",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8333",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7999",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100109",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100109",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100110",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100110",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2748",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8339",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8332",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0902",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1013",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0960",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1094",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0961",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100461",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100462",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100460",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4711",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4704",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0786",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5670",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5669",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0609",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4554",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1401",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1386",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8336",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8337",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0813",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3735",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8335",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1981",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0168",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4725",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4689",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4689",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4555",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4703",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0978",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0900",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4302",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4532",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4550",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4050",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4050",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5662",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5663",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0973",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8334",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0032",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6319",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0681",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0812",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7139",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0696",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8336",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1210",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4688",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4549",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1217",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100770",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1104",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100614",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7569",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-0271",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1261",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-5980",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-6027",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1408",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1407",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100379",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2996",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3073",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3050",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8515",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4136",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4525",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4179",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4136",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3691",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3684",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0153",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0145",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0144",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-1365",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-7309",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2822",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5549",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0205",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6653",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0387",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9786",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9787",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9771",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5631",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2018",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2306",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2306",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1324",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7241",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5070",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5713",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2236",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-7424",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8320",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7131",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100477",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100419",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4348",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7255",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101277",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101406",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101192",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8321",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100019",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7253",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7132",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1913",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4348",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101380",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101232",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101185",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101197",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1132",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1428",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7251",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1762",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2711",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5045",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5566",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101210",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101211",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-2959",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0950",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-8887",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-6817",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5481",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5480",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4451",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4450",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8630",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9094",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7559",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100880",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0307",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1079",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-7018",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0787",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1620",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3638",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100772",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9214",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0343",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-9478",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-9478",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1898",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100523",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0630",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1607",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1457",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1282",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100912",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101350",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0409",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100722",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6798",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101001",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100679",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101201",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101202",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100928",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1357",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101254",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101253",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0622",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0699",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2657",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5220",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3854",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2046",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-1271",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6802",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101387",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0940",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5749",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1167",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100687",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101102",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1884",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1885",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100052",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100052",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5220",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1917",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1881",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101088",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100733",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-0268",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-5917",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100955",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4509",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3636",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0793",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1403",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1203",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0703",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0718",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0692",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1302",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0691",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1304",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1859",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1858",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0690",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0695",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1303",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0971",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1349",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1358",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0695",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5606",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9204",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1235",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9168",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9043",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8279",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7111",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7109",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7110",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7112",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7113",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8472",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1385",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101052",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101032",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1581",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6017",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8000",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100683",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3554",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3555",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7283",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100904",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100480",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1182",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100901",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101070",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101323",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100479",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100900",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0321",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4891",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3396",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3863",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3486",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4013",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4018",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8110",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6477",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9236",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4199",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4203",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4202",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4201",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6798",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101001",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100679",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101201",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101202",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100928",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1357",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101254",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101253",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0622",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0699",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-2657",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5220",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3854",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-2046",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-1271",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6802",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101387",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0940",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-5749",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-1167",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100687",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101102",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1884",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1885",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100052",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100052",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5220",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1917",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-1881",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101088",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-100733",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-0268",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-5917",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100955",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4509",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3636",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0793",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1403",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1203",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0703",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-0718",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0692",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1302",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0691",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1304",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1859",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1858",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0690",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0695",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1303",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0971",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1349",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1358",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A11-0695",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-5606",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9204",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1235",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9168",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-9043",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8279",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7111",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7109",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7110",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7112",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7113",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8472",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1385",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101052",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101032",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1581",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-6017",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-8000",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100683",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3554",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-3555",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-7283",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100904",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100480",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-1182",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100901",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101070",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-101323",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100479",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-100900",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "C4-0321",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-4891",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3396",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-3863",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-3486",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4013",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-4018",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "04-8110",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-6477",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "A4-9236",
+    "status": "genuine",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4199",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4203",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4202",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  },
+  {
+    "nafdacNumber": "B4-4201",
+    "status": "expired",
+    "manufacturer": null,
+    "expiryDate": null
+  }
+]
